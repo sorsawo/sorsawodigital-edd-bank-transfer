@@ -1,10 +1,10 @@
-=== Sorsawo EDD Bank Transfer ===
+=== EDD Bank Transfer ===
 Contributors: sorsawo, maswib
 Donate link: https://paypal.me/maswib
 Tags: easy digital downloads, edd, payment gateway, bank transfer, wire transfer
 Requires at least: 4.6
 Tested up to: 5.2.3
-Stable tag: 1.0.8
+Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 

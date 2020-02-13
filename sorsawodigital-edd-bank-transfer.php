@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Sorsawo EDD Bank Transfer
+Plugin Name: EDD Bank Transfer
 Description: Adds a payment gateway for bank transfer to Easy Digital Downloads.
-Version: 1.0.8
+Version: 1.0.9
 Author: Sorsawo Team
 Author URI: https://sorsawo.com
 License: GNU General Public License v2 or later
